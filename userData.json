@@ -1,0 +1,62 @@
+[
+  {
+    "userType": "user",
+    "email": "user1@example.com",
+    "password": "user123",
+    "name": "User One"
+  },
+  {
+    "userType": "user",
+    "email": "user2@example.com",
+    "password": "user456",
+    "name": "User Two"
+  },
+  {
+    "userType": "user",
+    "email": "user3@example.com",
+    "password": "user789",
+    "name": "User Three"
+  },
+  {
+    "userType": "admin",
+    "email": "admin1@example.com",
+    "password": "admin123",
+    "name": "Admin One"
+  },
+  {
+    "userType": "admin",
+    "email": "admin2@example.com",
+    "password": "admin456",
+    "name": "Admin Two"
+  },
+  {
+    "userType": "user",
+    "email": "user4@example.com",
+    "password": "userabc",
+    "name": "User Four"
+  },
+  {
+    "userType": "user",
+    "email": "user5@example.com",
+    "password": "userdef",
+    "name": "User Five"
+  },
+  {
+    "userType": "admin",
+    "email": "admin3@example.com",
+    "password": "admin789",
+    "name": "Admin Three"
+  },
+  {
+    "userType": "admin",
+    "email": "admin4@example.com",
+    "password": "adminabc",
+    "name": "Admin Four"
+  },
+  {
+    "userType": "user",
+    "email": "user6@example.com",
+    "password": "userghi",
+    "name": "User Six"
+  }
+]
